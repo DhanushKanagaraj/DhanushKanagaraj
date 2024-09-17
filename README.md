@@ -9,7 +9,7 @@
 
 # 💫 About Me:
 🔭 I’m currently working on E-Learning Application<br>💬 Ask me about Tech<br><br>
-### use to code 
+# use to code 
 <div align = "center">
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
