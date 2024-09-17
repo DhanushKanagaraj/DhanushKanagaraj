@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi! I am ; Full-stack%20web%20developer 👨🏻‍💻&font=Fira%20Code&center=true&width=440&height=45&color=#0B46B4FC&vCenter=true&size=22&pause=1000"></a></p>
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-muthusamy&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-muthusamy" /> </p>
 <img  margin-top="-50px" align="center" width="100%" src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
-<img align="right" width="370" height="290" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
+
 
 # 💫 About Me:
 🔭 I’m currently working on E-Learning Application<br>💬 Ask me about Tech<br><br>
