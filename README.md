@@ -7,6 +7,8 @@
 <img  margin-top="-50px" align="center" width="100%" src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanushk1404/) 
 # 💫 About Me:
 🔭 I’m currently working on E-Learning Application<br>💬 Ask me about Tech<br><br>
 # use to code 
